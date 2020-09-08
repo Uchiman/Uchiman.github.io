@@ -1,0 +1,92 @@
+@import url('http://fonts.googleapis.com/css/family=Quicksand:400,500&subset=latin-ext');
+body {
+    padding: 100px;
+    background-color: gold;
+    text-align: center;
+    font-family: 'quicksand', sans-serif;
+}
+ul {
+    margin-left: -45px;
+}
+li {
+    list-style: none;
+    display: inline-block;
+}
+.main {
+    width: 800px;
+    height: 520px;
+    background-color: #fafafa;
+    margin: 0 auto;
+    padding-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee;
+}
+.img {
+    background-image: url(me.jpg);
+    background-color: gold;
+    background-size: cover;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    border: 3px solid gold;
+}
+h1 {
+    outline-width: 2px;
+    outline-color: goldenrod;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: gold;
+}
+.text {
+   
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+    color:black;
+}
+p {
+    margin: 0 auto;
+    padding-top: 20px;
+    width: 550px;
+    height: 0 auto;
+    color:rgb(56, 56, 56);
+    line-height: 25px;
+}
+.main2 {
+    width: 800px;
+    height: 520px;
+    background-color: #fafafa;
+    margin: 0 auto;
+    padding-top: -10px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee;
+}
+h3 {
+    text-decoration: underline 2px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    font-weight: bold;
+    color: gold;
+}
+.main3 {
+    color: rgb(56, 56, 56);
+    text-align: left;
+    margin: 50px;
+    line-height: 30px;
+    width: auto;
+    font-size: 16px;
+}
+.main4 {
+    width: 800px;
+    height: 520px;
+    background-color: #fafafa;
+    margin: 0 auto;
+    padding-top: -20px;
+    border-radius: 10px;
+    border: 1px solid #eeeeee;
+    
+}
