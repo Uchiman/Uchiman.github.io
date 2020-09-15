@@ -22,7 +22,7 @@ li {
     border: 1px solid #eeeeee;
 }
 .img {
-    background-image: url(me.jpg);
+    background-image: url(img/me.jpg);
     background-color: gold;
     background-size: cover;
     border-radius: 100px;
